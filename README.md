@@ -1,3 +1,5 @@
 # HelloWorld
 Rookie Respository
-this is a mock repository for the purposes of becoming familiar with the GitHub platform. 
+mock repository for familiarity
+
+My name is Aaron, I'm currently learning Python and have rudimentary knowledge of Java. Studying data analytics, database management. 
